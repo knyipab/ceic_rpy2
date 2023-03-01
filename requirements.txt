@@ -1,0 +1,4 @@
+rpy2
+country_converter
+pandas
+numpy
