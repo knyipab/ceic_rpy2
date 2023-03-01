@@ -11,7 +11,5 @@ A wrapper of CEIC R for Python. This is for those who do not have access to CEIC
 import ceic_rpy2 as ceic
 
 ceic.login("<username>", "<password>")
-ceic.get_series(41091101)
-
-
+ceic.series(41091101)
 ```
